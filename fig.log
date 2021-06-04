@@ -1,0 +1,589 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.4.8)  4 JUN 2021 15:13
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**fig.tex
+(./fig.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count183
+\Gm@cntv=\count184
+\c@Gm@tempcnt=\count185
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks16
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen149
+\captionmargin@=\dimen150
+\captionwidth=\dimen151
+\caption@tempdima=\dimen152
+\caption@indent=\dimen153
+\caption@parindent=\dimen154
+\caption@hangindent=\dimen155
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count186
+\c@continuedfloat=\count187
+)
+\c@KVtest=\count188
+\sf@farskip=\skip49
+\sf@captopadj=\dimen156
+\sf@capskip=\skip50
+\sf@nearskip=\skip51
+\c@subfigure=\count189
+\c@subfigure@save=\count190
+\c@lofdepth=\count191
+\c@subtable=\count192
+\c@subtable@save=\count193
+\c@lotdepth=\count194
+\sf@top=\skip52
+\sf@bottom=\skip53
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/l3backend/l3backend-xetex.de
+f
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count195
+\l__color_backend_stack_int=\count196
+\g__color_backend_stack_int=\count197
+\g__graphics_track_int=\count198
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count199
+\g__pdf_backend_annotation_int=\count266
+\g__pdf_backend_link_int=\count267
+))
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/l3packages/xparse/xparse-202
+0-10-01.sty
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/l3packages/xparse/xparse-gen
+eric.tex)))
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count268
+\l__fontspec_language_int=\count269
+\l__fontspec_strnum_int=\count270
+\l__fontspec_tmp_int=\count271
+\l__fontspec_tmpa_int=\count272
+\l__fontspec_tmpb_int=\count273
+\l__fontspec_tmpc_int=\count274
+\l__fontspec_em_int=\count275
+\l__fontspec_emdef_int=\count276
+\l__fontspec_strong_int=\count277
+\l__fontspec_strongdef_int=\count278
+\l__fontspec_tmpa_dim=\dimen157
+\l__fontspec_tmpb_dim=\dimen158
+\l__fontspec_tmpc_dim=\dimen159
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen160
+\ar@mcellbox=\box48
+\extrarowheight=\dimen161
+\NC@list=\toks17
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box49
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/gb4e/gb4e.sty
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/gb4e/cgloss4e.sty
+\lineone=\box50
+\linetwo=\box51
+\linethree=\box52
+\wordone=\box53
+\wordtwo=\box54
+\wordthree=\box55
+\gline=\box56
+\glossglue=\skip56
+)
+\c@fnx=\count279
+\@xnumdepth=\count280
+\c@xnumi=\count281
+\c@xnumii=\count282
+\c@xnumiii=\count283
+\c@xnumiv=\count284
+\c@exx=\count285
+\c@rxnumi=\count286
+\c@rxnumii=\count287
+\c@rxnumiii=\count288
+\c@rxnumiv=\count289
+\lcommentsep=\skip57
+)
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+
+Package fontspec Info: Font family 'TeXGyreTermes(0)' created for font 'TeX
+(fontspec)             Gyre Termes' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/OT:script=latn;language=dflt;+smcp;mapping=tex-te
+xt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/B/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"TeX
+(fontspec)             Gyre
+(fontspec)             Termes/B/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/I/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"TeX Gyre
+(fontspec)             Termes/I/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/BI/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"TeX Gyre
+(fontspec)             Termes/BI/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+
+
+(./fig.aux)
+\openout1 = `fig.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+0.
+ (/usr/local/texlive/2021basic/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=681.15898pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 20.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 20.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 20.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 20.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 20.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 20.
+LaTeX Font Info:    Redeclaring math accent \check on input line 20.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 20.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 20.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 20.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TeXGyreTermes(0)/m/n on input line 2
+0.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TeXGyreTermes(0)/m/n on input line 
+20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TeXGyreTermes(0)/m/n --> TU/TeXGyreTermes(0)/m/n on 
+input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TeXGyreTermes(0)/m/it on input line
+ 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TeXGyreTermes(0)/b/n on input line 
+20.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 20.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TeXGyreTermes(0)/m/n --> TU/TeXGyreTermes(0)/b/n on 
+input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TeXGyreTermes(0)/b/it on input lin
+e 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+
+
+(/usr/local/texlive/2021basic/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (8.39299pt too wide) in paragraph at lines 23--25
+[]\TU/TeXGyreTermes(0)/m/n/10 Введение Нецензурная лексика всегда была привлека
+тельным объектом для изучения. К этому предмету
+ []
+
+
+Overfull \hbox (17.67494pt too wide) in paragraph at lines 23--25
+\TU/TeXGyreTermes(0)/m/n/10 связанных, так и с внутренней, языковой стороны. Об
+сценная лексика разнообразна; использование некоторых
+ []
+
+
+Overfull \hbox (15.60605pt too wide) in paragraph at lines 31--32
+\TU/TeXGyreTermes(0)/m/n/10 - чрезвычайно широкой; неформальный контекст их упо
+требления способствует ее дальнейшему расширению.
+ []
+
+
+Overfull \hbox (19.92496pt too wide) in paragraph at lines 31--32
+\TU/TeXGyreTermes(0)/m/n/10 могут налагаться на обсценные выражения и как они м
+еняются во времени на примере устойчивых конструкций
+ []
+
+
+Overfull \hbox (3.78383pt too wide) in paragraph at lines 31--32
+\TU/TeXGyreTermes(0)/m/n/10 с корнем “фиг” (нифига/ни фига, нефиг/не фиг, фиг).
+ Нифига способно создавать отрицательный контекст,
+ []
+
+
+Overfull \hbox (14.24716pt too wide) in paragraph at lines 33--42
+\TU/TeXGyreTermes(0)/m/n/10 значений: “ лексема “фига” [...] может придавать ра
+зличные значения и оттенки в процессе словообразовании:
+ []
+
+
+Overfull \hbox (5.89716pt too wide) in paragraph at lines 54--55
+[]\TU/TeXGyreTermes(0)/m/n/10 Фиг подходит под понятие вульгарных минимизаторов
+ Шмелева (ссылка). Он обнаруживает синонимию
+ []
+
+
+Overfull \hbox (8.25046pt too wide) in paragraph at lines 56--61
+\TU/TeXGyreTermes(0)/m/n/10 выражают отрицание. Тогда отрицательное местоимение
+ – это нереферентное неопределенное местоимение
+ []
+
+[1
+
+]
+Overfull \hbox (27.93831pt too wide) in paragraph at lines 70--71
+\TU/TeXGyreTermes(0)/m/n/10 или междометий (фига се; фиг! в значении отказа) бы
+ли отфильтрованы, так как такие выражения синтаксически
+ []
+
+
+Overfull \hbox (14.82828pt too wide) in paragraph at lines 78--81
+\TU/TeXGyreTermes(0)/m/n/10 процессе работы с выборкой были обнаружены следующи
+е закономерности в употреблении фиг-конструкций: 
+ []
+
+
+Overfull \hbox (29.64717pt too wide) in paragraph at lines 82--89
+\TU/TeXGyreTermes(0)/m/n/10 спать-конструкций (ссылка на Апресяна). Фиг создает
+ модальный контекст невозможности или маловероятности
+ []
+
+Missing character: There is no ― (U+2015) in font TeX Gyre Termes/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ― (U+2015) in font TeX Gyre Termes/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ― (U+2015) in font TeX Gyre Termes/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ― (U+2015) in font TeX Gyre Termes/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (30.33388pt too wide) in paragraph at lines 146--147
+\TU/TeXGyreTermes(0)/m/n/10 нифига не фиксирована синтаксическая роль. Как мы в
+идели ранее в примере N, оно допускает двусмысленность.
+ []
+
+[2]
+Overfull \hbox (39.82492pt too wide) in paragraph at lines 154--180
+[]\TU/TeXGyreTermes(0)/m/n/10 Позиция Наполнение Пример с нефиг Соответствие Им
+енная группа, агенс имя (местоимение/существительное)
+ []
+
+
+Overfull \hbox (3.08826pt too wide) in paragraph at lines 154--180
+\TU/TeXGyreTermes(0)/m/n/10 соответствующее семантике инфинитива Мне нефиг дела
+ть.(нефиг=нечего) ?Мне нефиг поесть (в значении
+ []
+
+
+Overfull \hbox (12.77495pt too wide) in paragraph at lines 183--184
+\TU/TeXGyreTermes(0)/m/n/10 настолько, что фиг не может быть самостоятельным К-
+словом, и поэтому замена нулевого экзистенциального
+ []
+
+
+Overfull \hbox (16.63495pt too wide) in paragraph at lines 185--186
+\TU/TeXGyreTermes(0)/m/n/10 Таким образом, единственный контекст, в котором неф
+иг может быть именной группой – идиоматизированное
+ []
+
+Missing character: There is no ― (U+2015) in font TeX Gyre Termes/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (12.4205pt too wide) in paragraph at lines 187--189
+[]\TU/TeXGyreTermes(0)/m/n/10 Что касается наречной функции, ее нефиг тоже выпо
+лняет по-особому. Рассмотрим несколько примеров.
+ []
+
+
+Overfull \hbox (24.02716pt too wide) in paragraph at lines 192--193
+[]\TU/TeXGyreTermes(0)/m/n/10 Нефиг всегда выдвигается на левую периферию предл
+ожения, что говорит о его топикализации. Элицитация
+ []
+
+
+Overfull \hbox (26.8538pt too wide) in paragraph at lines 197--198
+[]\TU/TeXGyreTermes(0)/m/n/10 Также нефиг сочетается исключительно с глаголами 
+несовершенного вида. Это характерно для предложений
+ []
+
+
+Overfull \hbox (8.50385pt too wide) in paragraph at lines 209--213
+\TU/TeXGyreTermes(0)/m/n/10 написанию присутствует, как и у нифига. Фиг разбере
+шь Общие наблюдения Фиг в составе процитированной
+ []
+
+[3]
+Missing character: There is no ― (U+2015) in font TeX Gyre Termes/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ― (U+2015) in font TeX Gyre Termes/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (4.24747pt too wide) in paragraph at lines 223--224
+[]\TU/TeXGyreTermes(0)/m/n/10 В основном же ограничения на конструкцию таковы: 
+субъект опционален, но обязательно в номинативе;
+ []
+
+
+Overfull \hbox (1.13048pt too wide) in paragraph at lines 223--224
+\TU/TeXGyreTermes(0)/m/n/10 числа (но возможна вариация). Отклонения лицензирую
+тся субъектом пропозиции, а если субъект опущен,
+ []
+
+
+Overfull \hbox (3.28496pt too wide) in paragraph at lines 225--226
+[]\TU/TeXGyreTermes(0)/m/n/10 Фиг представляется единственным из трех выражений
+, анализируемых в этой работе, которое не просто
+ []
+
+
+Overfull \hbox (2.7105pt too wide) in paragraph at lines 236--237
+\TU/TeXGyreTermes(0)/m/n/10 объект или другие составляющие. Элицитация показыва
+ет, что фиг предпочтителен в начале предложения,
+ []
+
+
+Overfull \hbox (6.80495pt too wide) in paragraph at lines 236--237
+\TU/TeXGyreTermes(0)/m/n/10 а если перед ним стоит субъект, и так традиционно т
+опикальный (ссылка про информационную структуру?),
+ []
+
+Missing character: There is no ― (U+2015) in font TeX Gyre Termes/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (14.8483pt too wide) in paragraph at lines 245--248
+[]\TU/TeXGyreTermes(0)/m/n/10 Это явление показывает, что фиг действительно соз
+дает неверидикативный контекст, в котором возможно
+ []
+
+
+Overfull \hbox (20.08275pt too wide) in paragraph at lines 269--270
+[]\TU/TeXGyreTermes(0)/m/n/10 Чем можно объяснить такие ограничения? Дело в тип
+е модальности. Von Fintel & Heim 2021 предполагают,
+ []
+
+Missing character: There is no ― (U+2015) in font TeX Gyre Termes/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (27.0005pt too wide) in paragraph at lines 275--276
+\TU/TeXGyreTermes(0)/m/n/10 эпистемическая, а динамическая (dynamic/circumstant
+ial по Von Fintel & Heim 2021). Динамическая модальность
+ []
+
+Missing character: There is no ― (U+2015) in font TeX Gyre Termes/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+[4]
+Overfull \hbox (0.35048pt too wide) in paragraph at lines 287--290
+[]\TU/TeXGyreTermes(0)/m/n/10 Итак, фиг выражает динамическую модальность, этим
+ объясняется его сочетаемость. Фиг встречается
+ []
+
+
+Overfull \hbox (16.79498pt too wide) in paragraph at lines 287--290
+\TU/TeXGyreTermes(0)/m/n/10 с глаголами в будущем времени или в сослагательном 
+наклонении, может принимать пропозиции с различными
+ []
+
+
+Overfull \hbox (28.1241pt too wide) in paragraph at lines 293--294
+[]\TU/TeXGyreTermes(0)/m/n/10 В силу незначимой лексической составляющей выраже
+ния с фиг ограничены главным образом синтаксически.
+ []
+
+[5] (./fig.aux) ) 
+Here is how much of TeX's memory you used:
+ 5907 strings out of 478436
+ 142386 string characters out of 5853930
+ 494204 words of memory out of 5000000
+ 25770 multiletter control sequences out of 15000+600000
+ 408443 words of font info for 64 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 81i,6n,89p,890b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on fig.pdf (5 pages).
